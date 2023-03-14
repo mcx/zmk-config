@@ -14,4 +14,4 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: the_paintbrush
+    shield: the_paintbrush_right
